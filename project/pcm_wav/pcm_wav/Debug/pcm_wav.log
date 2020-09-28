@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\FFEpeg\project\pcm_wav\pcm_wav\main.cpp(120): warning C4715: “pcvToWav”: 不是所有的控件路径都返回值
+  pcm_wav.vcxproj -> D:\FFEpeg\project\pcm_wav\Debug\pcm_wav.exe
